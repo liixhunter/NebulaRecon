@@ -1,4 +1,3 @@
-Got it 👍 — you want a **complete README.md** that lists **all requirements** (system packages, Go tools, Python tools, AS3NT, and its dependencies), plus installation and usage instructions. Here’s a full version you can drop into your project:
 
 ---
 
@@ -160,3 +159,4 @@ You’re ready to enumerate subdomains with a clean, unified tool.
 ✨ This README now covers **all requirements**: system packages, Go tools, Python tools, AS3NT, its dependencies, and optional libpostal.  
 
 Would you like me to also generate a **requirements.txt** (for pip) and a **go.mod/go.sum** (for Go tools) so you can install everything with one command in each environment?
+
