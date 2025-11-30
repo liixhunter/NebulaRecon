@@ -129,8 +129,8 @@ If any are missing, it will stop and prompt you to install them.
 
 ## 📜 License
 
-MIT License © 2025 — Your Name  
-Feel free to use, modify, and share.
+MIT License © 2025 — liixhunter 
 ```
+
 
 
