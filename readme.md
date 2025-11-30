@@ -1,4 +1,3 @@
-Got it ✅ — here’s a **complete all‑in‑one README.md** that includes the banner, features, dependencies with install instructions, usage, examples, output details, and license. Everything is consolidated so users don’t need to look elsewhere:
 
 ```markdown
 # 🌌 NebulaRecon — Subdomain Discovery Toolkit
@@ -136,7 +135,6 @@ Feel free to use, modify, and share.
 
 ---
 
-This README is **self-contained**: banner, features, install instructions, usage, examples, and license are all in one place.  
 
-Would you like me to also add a **Quickstart one-liner** (install Go + Python deps + clone repo) so users can set up everything with a single copy-paste command?
+
 
